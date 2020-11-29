@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://coding-pages-bucket-3494583-8068009-6543-395425-1304373221.cos-website.ap-hongkong.myqcloud.com</id>
+    <id>https://zqrgit.github.io</id>
     <title>Gridea</title>
-    <updated>2020-11-29T07:31:11.569Z</updated>
+    <updated>2020-11-29T08:00:00.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://coding-pages-bucket-3494583-8068009-6543-395425-1304373221.cos-website.ap-hongkong.myqcloud.com"/>
-    <link rel="self" href="https://coding-pages-bucket-3494583-8068009-6543-395425-1304373221.cos-website.ap-hongkong.myqcloud.com/atom.xml"/>
+    <link rel="alternate" href="https://zqrgit.github.io"/>
+    <link rel="self" href="https://zqrgit.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://coding-pages-bucket-3494583-8068009-6543-395425-1304373221.cos-website.ap-hongkong.myqcloud.com/images/avatar.png</logo>
-    <icon>https://coding-pages-bucket-3494583-8068009-6543-395425-1304373221.cos-website.ap-hongkong.myqcloud.com/favicon.ico</icon>
+    <logo>https://zqrgit.github.io/images/avatar.png</logo>
+    <icon>https://zqrgit.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://coding-pages-bucket-3494583-8068009-6543-395425-1304373221.cos-website.ap-hongkong.myqcloud.com/post/hello-gridea/</id>
-        <link href="https://coding-pages-bucket-3494583-8068009-6543-395425-1304373221.cos-website.ap-hongkong.myqcloud.com/post/hello-gridea/">
+        <id>https://zqrgit.github.io/post/hello-gridea/</id>
+        <link href="https://zqrgit.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
